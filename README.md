@@ -1,4 +1,3 @@
-# ANDROID_STUDY
 <h2> <img src = "https://cdn-icons-png.flaticon.com/512/2920/2920369.png" width = "30" height = "30" > 2023 ANDROID CLASS <img src = "https://cdn-icons-png.flaticon.com/512/2920/2920369.png" width = "30" height = "30" > </h2>
 
 <h3> <img src = "https://cdn-icons-png.flaticon.com/512/6597/6597133.png" width = "30" height = "30" > PERIOD <img src = "https://cdn-icons-png.flaticon.com/512/6597/6597133.png" width = "30" height = "30" > </h3>
