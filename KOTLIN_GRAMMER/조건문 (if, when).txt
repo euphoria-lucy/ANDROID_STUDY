@@ -1,0 +1,18 @@
+fun main() {
+    var count : Int = 99
+    var jumsu : Int = (count / 10) * 10
+    when (jumsu) {
+        100 -> println("합격 (장학생)")
+        90 -> println("합격 (장학생)")
+        80, 70, 60 -> println("합격")
+        else -> println("불합격")
+    } 
+    
+    var score : Int = 99
+    when(score) {
+        in 90..100 -> println("합격 (장학생)")
+        in 60..89 -> println("합격")
+        else -> println("불합격")
+    }
+
+}

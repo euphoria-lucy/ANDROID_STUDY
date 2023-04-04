@@ -1,0 +1,18 @@
+fun main() {
+    var var1 : Int = 9
+    var var2 : Float = 1.11f
+    var var3 : Double = 98.0111
+    var var4 : Char = '임'
+    var var5 : String = "한국전력 빅스톰 임성진"
+    println(var1)
+    println(var2)
+    println(var3)
+    println(var4)
+    println(var5)
+    
+    var a : Int = "111".toInt()
+    var b : Double = "99.0111".toDouble()
+    
+    var notNull : Int = null // 오류
+    var okNull : Int? = null // 정상
+}
