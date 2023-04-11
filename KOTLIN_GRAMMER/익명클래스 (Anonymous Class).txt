@@ -5,4 +5,7 @@ ActionListener listener = new ActionListener() {
 	public void actionPerformed(ActionEvent c) { → 이벤트 처리할 때 사용
 
 	}
-}
+};
+
+btn2.addActionListener(listener);
+btn2.addActionListener(new ActionListener) {
