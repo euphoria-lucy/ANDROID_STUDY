@@ -1,0 +1,8 @@
+익명클래스 (Anonymous Class)
+
+ActionListener listener = new ActionListener() {
+
+	public void actionPerformed(ActionEvent c) { → 이벤트 처리할 때 사용
+
+	}
+}
